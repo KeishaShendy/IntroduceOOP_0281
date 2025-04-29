@@ -20,4 +20,6 @@ class mahasiswa {
         mhs.nama = "Shendy";
         mhs.nilai = 100;
     
-       
+        mhs.print_data();
+    
+    }
